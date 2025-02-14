@@ -294,6 +294,7 @@ static void MX_TIM2_Init(void)
     Error_Handler();
   }
   /* USER CODE BEGIN TIM2_Init 2 */
+  printf("asd");
 
   /* USER CODE END TIM2_Init 2 */
 
